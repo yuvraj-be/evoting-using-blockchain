@@ -1,5 +1,3 @@
-# DecentVote ETH by ZiLab
-
-Telegram: @zilab_technologies for support.
-www.zilab.co
+# E Voting Using Blockchain ETH by Yuvraj
+instagram.com/belbaseyuvraj
 
